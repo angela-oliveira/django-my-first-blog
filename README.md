@@ -1,2 +1,2 @@
-# my-first-blog
+# django-my-first-blog
 App django
